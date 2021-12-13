@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://www.nancal.com",
+  "integrationFolder": "cypress/integration",
+  "testFiles": "**/*.spec.js",
+  "viewportHeight": 800,
+  "viewportWidth": 1600,
+  "defaultCommandTimeout":8000
+}
